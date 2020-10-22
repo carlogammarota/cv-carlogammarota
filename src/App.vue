@@ -81,7 +81,7 @@
         <li>
           <a class="bg-green-100 hover:bg-green-200 rounded-md p-2" href="https://eloquent-cori-523797.netlify.app/">https://eloquent-cori-523797.netlify.app/ (Music Samples Maqueta)</a>
         </li>
-        <li class="mt-4">
+        <li class="mt-4 mb-4">
           <a class="bg-green-100 hover:bg-green-200 rounded-md p-2  " href="https://lucid-ride-7a3acd.netlify.app/">https://lucid-ride-7a3acd.netlify.app/ (Esporahi Project)</a>
         </li>
       </ul>
