@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="bg-white">
+  <div id="app" class="bg-white flex flex-col h-screen justify-between">
     <!-- <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <!-- Two columns -->
@@ -86,7 +86,7 @@
         </li>
       </ul>
     </div>
-    <div class="w-full sm:w-full md:w-1/2 text-left">
+    <div class="w-full sm:w-full md:w-1/2 text-left mb-auto">
       <p class="text-xl font-bold uppercase">Skills Front-end</p>
       <div class="my-2 mb-4 flex flex-wrap">
         <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">Vuex</span>
@@ -120,6 +120,9 @@
           <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">Slack</span>
         </div>
     </div>
+  </div>
+  <div class="w-full bottom-0 bg-gray-200 text-right flex-wrap">
+    <p class="mr-10 py-2 ">© 2020 CV Carlo Gammarota</p>
   </div>
 
   </div>
