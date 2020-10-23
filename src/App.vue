@@ -121,7 +121,7 @@
         </div>
     </div>
   </div>
-  <div class="w-full bottom-0 bg-gray-200 text-right flex-wrap">
+  <div class="w-full bottom-0 bg-gray-200 text-center flex-wrap">
     <p class="mr-10 py-2 ">© 2020 CV Carlo Gammarota</p>
   </div>
 
