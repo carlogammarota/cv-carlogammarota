@@ -3,7 +3,7 @@
     <!-- <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <!-- Two columns -->
-    <div class="flex md:flex-row-reverse flex-wrap bg-gray-100">
+    <div class="flex md:flex-row-reverse flex-wrap bg-blue-100">
       <div class="w-full md:w-3/4 p-4 text-center">
           <div class="w-full text-left">
             <p class="text-4xl">Carlo F. Gammarota</p>
@@ -42,7 +42,7 @@
     
   </div> -->
     <!-- Four columns -->
-  <div class="flex-wrap flex mb-4 bg-gray-200 py-4">
+  <div class="flex-wrap flex mb-4 bg-blue-100 py-4">
     <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold items-center">
       <img class="h-6 w-6 m-auto my-2" src="./assets/img/email.png" alt="">
       carlo.gammarota@gmail.com
@@ -62,7 +62,7 @@
   </div>
 
   <!-- Two columns -->
-  <div class="flex flex-wrap mb-4 mx-10 bg-gray-100 p-4">
+  <div class="flex flex-wrap mb-4 mx-10 bg-blue-200 p-4 rounded-md">
     <div class="w-full sm:w-full md:w-1/2 text-left">
       <p class="text-xl font-bold uppercase mb-2">Online Works</p>
       <ul>
@@ -84,19 +84,22 @@
         <li class="mt-4 mb-4">
           <a class="bg-green-100 hover:bg-green-200 rounded-md p-2  " href="https://lucid-ride-7a3acd.netlify.app/">https://lucid-ride-7a3acd.netlify.app/ (Esporahi Project)</a>
         </li>
+        <li class="mt-4 mb-4">
+          <a class="bg-green-100 hover:bg-green-200 rounded-md p-2  " href="https://jolly-payne-2c56a5.netlify.app/">https://jolly-payne-2c56a5.netlify.app/ (Maquetación)</a>
+        </li>
       </ul>
     </div>
     <div class="w-full sm:w-full md:w-1/2 text-left mb-auto">
       <p class="text-xl font-bold uppercase">Skills Front-end</p>
       <div class="my-2 mb-4 flex flex-wrap">
-        <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">Vuex</span>
-        <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">Vue.js</span>
-        <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">Nuxt.js</span>
-        <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">Axios</span>
-        <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">TailwindCss</span>
-        <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">Vuetify</span>
-        <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">Bulma</span>
-        <span class="p-1 bg-pink-100 hover:bg-pink-200 cursor-pointer rounded-md mr-1 mb-2">Bootstrap</span>
+        <span class="p-1 bg-pink-100 hover:bg-blue-200 cursor-pointer rounded-md mr-1 mb-2">Vuex</span>
+        <span class="p-1 bg-pink-100 hover:bg-blue-200 cursor-pointer rounded-md mr-1 mb-2">Vue.js</span>
+        <span class="p-1 bg-pink-100 hover:bg-blue-200 cursor-pointer rounded-md mr-1 mb-2">Nuxt.js</span>
+        <span class="p-1 bg-pink-100 hover:bg-blue-200 cursor-pointer rounded-md mr-1 mb-2">Axios</span>
+        <span class="p-1 bg-pink-100 hover:bg-blue-200 cursor-pointer rounded-md mr-1 mb-2">TailwindCss</span>
+        <span class="p-1 bg-pink-100 hover:bg-blue-200 cursor-pointer rounded-md mr-1 mb-2">Vuetify</span>
+        <span class="p-1 bg-pink-100 hover:bg-blue-200 cursor-pointer rounded-md mr-1 mb-2">Bulma</span>
+        <span class="p-1 bg-pink-100 hover:bg-blue-200 cursor-pointer rounded-md mr-1 mb-2">Bootstrap</span>
       </div>
       <p class="text-xl font-bold uppercase ">Skills Back-end</p>
       <div class="my-2 mb-4 flex flex-wrap">
@@ -109,20 +112,20 @@
       </div>
       <p class="text-xl font-bold uppercase ">Others Skills</p>
         <div class="my-2 flex flex-wrap">
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">Heroku</span>
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">Netlify</span>
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">Git</span>
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">GitHub</span>
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">GitLab</span>
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">Jquery</span>
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">Eslint</span>
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">Prettier</span>
-          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-yellow-200 rounded-md mr-1 mb-2">Slack</span>
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">Heroku</span>
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">Netlify</span>
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">Git</span>
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">GitHub</span>
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">GitLab</span>
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">Jquery</span>
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">Eslint</span>
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">Prettier</span>   
+          <span class="p-1 bg-yellow-100 cursor-pointer hover:bg-blue-200 rounded-md mr-1 mb-2">Slack</span>
         </div>
     </div>
   </div>
-  <div class="w-full bottom-0 bg-gray-200 text-center flex-wrap">
-    <p class="mr-10 py-2 ">© 2020 CV Carlo Gammarota</p>
+  <div class="w-full bottom-0 bg-blue-100 text-center flex-wrap">
+    <p class="mr-10 py-2 ">© 2021 CV Carlo Gammarota</p>
   </div>
 
   </div>
