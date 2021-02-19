@@ -43,22 +43,25 @@
   </div> -->
     <!-- Four columns -->
   <div class="flex-wrap flex mb-4 bg-blue-100 py-4">
-    <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold items-center">
+    <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold items-center rounded-md border-black hover:bg-white">
       <img class="h-6 w-6 m-auto my-2" src="./assets/img/email.png" alt="">
       carlo.gammarota@gmail.com
     </div>
-    <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold">
+    <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold rounded-md border-black hover:bg-white">
       <img class="h-6 w-6 m-auto my-2" src="./assets/img/smartphone.png" alt="">
       3548 630543
     </div>
-    <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold">
+    <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold rounded-md border-black hover:bg-white">
       <img class="h-6 w-6 m-auto my-2" src="./assets/img/location.png" alt="">
       Villa Giardino, Córdoba
     </div>
-    <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold">
+    <a href="http://github.com/carlogammarota" class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold rounded-md border-black hover:bg-white cursor-pointer">
+      <!-- <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold rounded-md border-black hover:bg-white cursor-pointer"> -->
+      <div>
       <img class="h-6 w-6 m-auto my-2" src="./assets/img/github.png" alt="">
       github.com/carlogammarota
-    </div>
+      </div>
+    </a>
   </div>
 
   <!-- Two columns -->
