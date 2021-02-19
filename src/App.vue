@@ -53,7 +53,7 @@
     </div>
     <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold">
       <img class="h-6 w-6 m-auto my-2" src="./assets/img/location.png" alt="">
-      Capilla del Monte, Córdoba
+      Villa Giardino, Córdoba
     </div>
     <div class="w-full md:w-1/4 sm:md:w-1/4 xl:w-1/4 text-sm font-bold">
       <img class="h-6 w-6 m-auto my-2" src="./assets/img/github.png" alt="">
